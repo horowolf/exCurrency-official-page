@@ -16,3 +16,8 @@ div {
 #key_usage {
     max-width: inherit;
 }
+
+.logo {
+    width: 30%;
+    max-width: 400px;
+}
